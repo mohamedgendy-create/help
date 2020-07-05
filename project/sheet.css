@@ -1,0 +1,66 @@
+*{
+	padding:0;
+	margin-top:2%;
+	font-family:"Roboto", sans-serif;
+}
+body{
+	
+    background-image:url("nn.jpg");
+	background-position:center;
+	background-size:cover;
+	background-repeat: no-repeat;
+	height:90vh;	
+}
+.net{
+	max-width:1300px
+}
+header{
+	width:auto;
+	overflow:outo;
+}
+.logo{float:left;
+}
+.logo h1{
+	color:#fff;
+	margin-left:center%;
+	
+	margin-top:50%;
+	
+	font-size:60px;
+	
+}
+nav{
+float: right;}
+nav ul {
+	width:auto;
+	overflow:auto;
+}
+nav ul li{
+	display:inline;
+	list-style:none;
+	
+}
+nav ul li:hover{
+	border:1px solid #fff
+}
+nav ul.act{
+	border:1px solid #fff
+}
+nav ul li a{
+	text-decoration:none;
+	color:#fff;
+	font-size:20px;
+	padding:0px 15px;
+	
+}
+footer{
+  background-color:#333;
+  color:#fff;
+  text-align:center;
+  padding:5px;
+  position:absolute;
+  bottom:0;
+  width:100%;
+
+
+}
